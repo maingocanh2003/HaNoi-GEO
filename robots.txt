@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://example.com/sitemap.xml
+
+Sitemap: https://maingocanh2003.github.io/HaNoi-GEO/sitemap.xml
